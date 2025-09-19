@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "username": "aisha",
+      "segment": "loyal",
+      "active": true
+    },
+    {
+      "username": "ben",
+      "segment": "new",
+      "active": true
+    },
+    {
+      "username": "chen",
+      "segment": "churn",
+      "active": false
+    },
+    {
+      "username": "dina",
+      "segment": "loyal",
+      "active": true
+    }
+  ]
+}

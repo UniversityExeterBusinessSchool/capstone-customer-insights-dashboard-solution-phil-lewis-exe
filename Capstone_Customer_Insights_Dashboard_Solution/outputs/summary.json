@@ -1,0 +1,14 @@
+{
+  "spend_by_user": {
+    "aisha": 55.48,
+    "ben": 32.98,
+    "chen": 12.99,
+    "dina": 117.97
+  },
+  "most_popular": {
+    "product_id": "P100",
+    "qty": 7
+  },
+  "churn_rate_pct": 25.0,
+  "average_order_value": 31.35
+}
